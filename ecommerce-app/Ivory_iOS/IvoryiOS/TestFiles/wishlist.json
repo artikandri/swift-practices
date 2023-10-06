@@ -1,0 +1,10 @@
+{
+    "tableName":"wishlist",
+    "users":
+        [
+         {
+            "id":0,
+            "products":[-1,-1]
+         }
+        ]
+}
